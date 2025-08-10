@@ -77,13 +77,13 @@ export default function SeniorSafetyLanding() {
 
           {/* CTA Button */}
           <a
-            href="tel:+18888708020"
+            href="tel:+18888701225"
             className="inline-block w-full"
             role="button"
-            aria-label="Call 888-870-8020 to check eligibility for medical alert device"
+            aria-label="Call 888-870-1225 to check eligibility for medical alert device"
           >
             <Button className="w-full bg-yellow-400 hover:bg-yellow-500 text-black text-lg font-bold py-4 px-6 rounded-lg shadow-lg transition-all duration-200 transform hover:scale-105 animate-cta-pop active:scale-95 touch-manipulation">
-              📞 Call (888) 870-8020 Now
+              📞 Call (888) 870-1225 Now
             </Button>
           </a>
         </div>
@@ -221,13 +221,13 @@ export default function SeniorSafetyLanding() {
             Call now to check eligibility and reserve your device while funding remains.
           </p>
           <a
-            href="tel:+18888708020"
+            href="tel:+18888701225"
             className="inline-block w-full"
             role="button"
-            aria-label="Call 888-870-8020 to check eligibility for medical alert device"
+            aria-label="Call 888-870-1225 to check eligibility for medical alert device"
           >
             <Button className="w-full bg-yellow-400 hover:bg-yellow-500 text-black text-lg font-bold py-4 px-6 rounded-lg shadow-lg transition-all duration-200 transform hover:scale-105 animate-cta-pop active:scale-95 touch-manipulation">
-              {"📞 Call (888) 870-8020 Now"}
+              {"📞 Call (888) 870-1225 Now"}
             </Button>
           </a>
         </div>
